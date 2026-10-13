@@ -1,0 +1,16 @@
+[extract]
+# Default spacing guesses used when the slicer can't infer them.
+gutter = 0
+margin = 0
+
+[export]
+# One of: png, webp, atlas-json, atlas-css
+format = "png"
+
+[plugins]
+# Extra directories scanned for third-party plugins at startup.
+extra_dirs = []
+
+[ui]
+theme = "dark"
+recent_limit = 12
